@@ -1,0 +1,15 @@
+.footer {
+  background-image: url("../../assets/img/Footer.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+  width: 100%;
+  min-height: 592px;
+  overflow: hidden;
+}
+.vector {
+  background-image: url("../../assets/img/facebook.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
